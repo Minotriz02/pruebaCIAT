@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  padding: 1rem 3rem;
+  border: none;
+  border-radius: 6px;
+  margin: 2rem 1rem;
+  color: white;
+  background-color:#124C5F;                       
+}
+
+button:hover{
+  cursor: pointer;
+  opacity: 80%;
+}

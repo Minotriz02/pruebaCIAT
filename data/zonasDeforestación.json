@@ -1,0 +1,14 @@
+{
+    "zonas": [
+        {
+            "latitud": 100,
+            "longitud": 25,
+            "areaDeforestacion": 32
+        },
+        {
+            "latitud": 320,
+            "longitud": 10,
+            "areaDeforestacion": 123
+        }
+    ]
+}

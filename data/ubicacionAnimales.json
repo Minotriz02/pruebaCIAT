@@ -1,0 +1,22 @@
+{
+    "animales": [
+        {
+            "latitud": 320,
+            "longitud": 1523,
+            "propietario": {
+                "Nombre": "Andres",
+                "Apellido": "López"
+            },
+            "animal": "Gallina"
+        },
+        {
+            "latitud": 3524,
+            "longitud": 43253,
+            "propietario": {
+                "Nombre": "Carlos",
+                "Apellido": "Arboleda"
+            },
+            "animal": "Vaca"
+        }
+    ]
+}
